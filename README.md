@@ -1,6 +1,6 @@
-# My Vinyl Collection
+# My Vinyl Collection [open app ↗️](https://my-vinyl-collection-frontend.herokuapp.com/)
 
-Link na radnu deployanu verziju aplikacije: https://my-vinyl-collection-frontend.herokuapp.com/
+![app screenshop](screenshot.png)
 
 ## Općenito o projektu
 
